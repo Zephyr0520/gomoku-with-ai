@@ -55,6 +55,9 @@ Both models share the same underlying architecture (Negamax/Minimax + Alpha-Beta
 
 ---
 
+### 🤝 Acknowledgments
+* **[DeepSeek](https://www.deepseek.com/)**: Special thanks to DeepSeek AI for providing structural suggestions, debugging assistance, and helping write this documentation.
+
 ## 🇨🇳 中文
 
 一款功能丰富的基于 Python 开发的五子棋（Gobang）游戏，支持多种对战模式和基于博弈树搜索的高级 AI 算法。
@@ -100,3 +103,8 @@ Both models share the same underlying architecture (Negamax/Minimax + Alpha-Beta
 2. 运行主入口文件：
    ```bash
    python main.py
+
+---
+
+## 🤝 鸣谢
+* **[DeepSeek](https://www.deepseek.com/)**:特别鸣谢 DeepSeek AI 在代码架构、Bug 修复以及编写本篇文档时提供的强大辅助。
